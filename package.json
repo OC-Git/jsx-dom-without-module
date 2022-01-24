@@ -1,5 +1,5 @@
 {
-  "name": "@OC-Git/jsx-dom",
+  "name": "@sebastianbaltes/jsx-dom",
   "version": "7.0.4",
   "description": "JSX to document.createElement.",
   "main": "index.js",
